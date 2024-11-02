@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Akash Ujjainkar, a passionate Data Engineer with a knack for turning complex data challenges into streamlined solutions. With a strong foundation in computer science and over 5 years of professional experience, I thrive on designing and implementing data pipelines, crafting robust architectures, and contributing to data-driven innovation.
+Hey there! 👋 I'm Akash Ujjainkar, a passionate Data Engineer with a knack for turning complex data challenges into streamlined solutions. With a strong foundation in computer science and over 6+ years of professional experience, I thrive on designing and implementing data pipelines, crafting robust architectures, and contributing to data-driven innovation.
 
 My journey has led me to work with leading tech companies, where I played a pivotal role in optimizing data workflows, orchestrating pipelines, and collaborating on intricate system designs. My experience extends to multiple domains, strengthening my expertise in data management for impactful insights.
 
