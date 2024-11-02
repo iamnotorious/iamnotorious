@@ -17,7 +17,7 @@ Feel free to connect and explore how my skills and experiences align with your n
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-blue)
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![SQL](https://img.shields.io/badge/SQL-Expert-green)
+![SQL](https://img.shields.io/badge/SQL-advanced-green)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
