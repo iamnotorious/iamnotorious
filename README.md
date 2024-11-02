@@ -20,21 +20,22 @@ Feel free to connect and explore how my skills and experiences align with your n
 ![SQL](https://img.shields.io/badge/SQL-advanced-green)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-advanced-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-advanced-orange)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Advanced-blue)
-![Hive](https://img.shields.io/badge/Hive-Intermediate-orange)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-orange)
-![RDS](https://img.shields.io/badge/RDS-Intermediate-orange)
-![BigQuery](https://img.shields.io/badge/BigQuery-Intermediate-orange)
+![Hive](https://img.shields.io/badge/Hive-Advanced-orange)
+![Redis](https://img.shields.io/badge/Redis-Advanced-orange)
+![RDS](https://img.shields.io/badge/RDS-Advanced-orange)
+![BigQuery](https://img.shields.io/badge/BigQuery-Advanced-orange)
+![RedShift](https://img.shields.io/badge/redshift-Advanced-orange)
 
 ### Data Frameworks
-![Hadoop](https://img.shields.io/badge/Hadoop-Intermediate-orange)
+![Hadoop](https://img.shields.io/badge/Hadoop-Advanced-orange)
 ![Spark](https://img.shields.io/badge/Spark-Advanced-blue)
-![Kafka](https://img.shields.io/badge/Kafka-Intermediate-orange)
+![Kafka](https://img.shields.io/badge/Kafka-Advanced-orange)
 ![Airflow](https://img.shields.io/badge/Airflow-Advanced-blue)
-![Databricks](https://img.shields.io/badge/Databricks-Intermediate-orange)
-![Looker](https://img.shields.io/badge/Looker-Intermediate-orange)
+![Databricks](https://img.shields.io/badge/Databricks-Advanced-orange)
+![Looker](https://img.shields.io/badge/Looker-Advanced-orange)
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange)
@@ -43,22 +44,6 @@ Feel free to connect and explore how my skills and experiences align with your n
 ### Containerization
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
-
-
-## 🛠️ Professional Experience
-
-**Integral Ad Science | Data Engineer**
-_Oct 2021 - Present | Pune, India_
-- Collaborated on the design and implementation of real-time data ingestion systems from platforms like Facebook, Snapchat, and Spotify.
-- Leveraged Kinesis and Apache Kafka for efficient data processing and enrichment.
-- Orchestrated data transformation with Apache Spark and Airflow, followed by storage in Snowflake.
-
-**TSYS | Data Engineer**
-_Oct 2018 - Oct 2021 | Pune, India_
-- Spearheaded a comprehensive fraud detection pipeline using Cobrix, Spark, Kafka, and Airflow.
-- Optimized report performance by 50%, enhancing insights and response capabilities.
-- Contributed to the migration of legacy systems to modern cloud-based architectures.
-
 
 
 # 📊 GitHub Stats:
