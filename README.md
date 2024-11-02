@@ -46,12 +46,6 @@ Feel free to connect and explore how my skills and experiences align with your n
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
 
 
-# 📊 GitHub Stats:
-<div style="display: flex;">
-    <img src="https://myreadme.vercel.app/api/embed/iamnotorious?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="reimaginedreadme" />
-</div> 
-
-
 ## 📞 Contact
 
 Feel free to get in touch with me:
